@@ -11,8 +11,8 @@ Vibrant colors and intuitive design elements enhance the gaming experience.
 Keep track of your best performances and challenge yourself to beat your own records.
 
 #### Instructions:
-Start: Press any key to begin the game.
-Watch: Pay close attention to the sequence of colors displayed by Simon.
-Repeat: Click on the colors in the same order as Simon to replicate the sequence.
-Advance: As you progress, the sequences will become longer and more challenging.
+##### Start: Press any key to begin the game.
+##### Watch: Pay close attention to the sequence of colors displayed by Simon.
+##### Repeat: Click on the colors in the same order as Simon to replicate the sequence.
+##### Advance: As you progress, the sequences will become longer and more challenging.
 
