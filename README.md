@@ -20,3 +20,8 @@ Click on the colors in the same order as Simon to replicate the sequence.
 ##### Advance: 
 As you progress, the sequences will become longer and more challenging.
 
+### video:
+
+
+https://github.com/Vasu-Tilva/Simon_Says_game/assets/146325927/8860c653-ffa5-474c-832b-37371a031169
+
